@@ -1,15 +1,15 @@
-### Hi there, I'm Jake - 👋
+### Hi there, I'm Jake 👋
 
 ## I'm a Web Developer, Deep Learning Practitioner
 - 🔭 I’m currently working on a research project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other open source projects
+- 👯 I’m looking to contribute to other open source projects
 - ⚡ Fun fact: I love Corgi && Golden Retrievers
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn Account" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<!-- [<img align="left" alt="LinkedIn Account" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github] -->
 <br />
 
 ### Languages and Tools:
