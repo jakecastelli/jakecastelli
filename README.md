@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="jakecastelli's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jakecastelli&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&hide=stars" />
+<img align="left" alt="jakecastelli's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mickeyzeng&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&hide=stars" />
 
 [linkedin]: https://www.linkedin.com/in/jake-yuesong-li/
 [github]: https://github.com/jakecastelli
