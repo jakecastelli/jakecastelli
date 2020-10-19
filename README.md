@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=jakecastelli)
+
 ### Hi there, I'm Jake 👋
 
 ## I'm a Web Developer, Deep Learning Practitioner
