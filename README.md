@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Jake 👋
 
-## I'm a Web Developer, open source enthusiast and Deep Learning Practitioner
+## I'm a Web Developer, Open Source Enthusiast and Deep Learning Practitioner
 - 🔭 I’m currently working on a research project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to other open source projects
