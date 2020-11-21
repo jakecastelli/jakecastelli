@@ -4,9 +4,10 @@
 ### Hi there, I'm Jake 👋
 
 ## I'm a Web Developer, Open Source Enthusiast and Deep Learning Practitioner
-- 🔭 I’m currently working on a research project
+- 🔭 I’m currently working on Trongate Eco-System
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to other open source projects
+- ☺️ I’m also looking for contributors to the Trongate Eco-System (open sources projects)
 - ⚡ Fun fact: I love Corgi && Golden Retrievers
 
 ### Connect with me:
